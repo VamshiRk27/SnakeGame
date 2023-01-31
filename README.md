@@ -1,2 +1,2 @@
 # SnakeGame
-A Snake Game built using Java Swing and Java AWT
+Developed a Snake Game using concepts of Java Swing and Java AWT
